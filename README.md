@@ -10,7 +10,6 @@ This project demonstrates a secure authentication implementation for a **Single 
 
 Unlike traditional authentication methods, this project utilizes **Microsoft Entra External ID (CIAM)** to handle customer identity, ensuring enterprise-grade security. The application is containerized and deployed via **Azure App Service (PaaS)**.
 
-> **Live Demo:** [https://senin-app-ismin.azurewebsites.net](https://senin-app-ismin.azurewebsites.net) *(Not: Link çalışmasa bile buraya yazmak ciddiyet gösterir, eğer kapattıysan "Deployment: Azure App Service" yazıp bırakabilirsin)*
 
 ## 🏗 Architecture & Key Features
 
