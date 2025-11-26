@@ -1,0 +1,109 @@
+footer {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+.App {
+    text-align: center;
+}
+
+.iconText {
+    margin: 0 0.5rem;
+}
+
+.navbarStyle {
+    padding: 0.5rem 1rem !important;
+}
+
+.navbarButton {
+    color: #fff !important;
+    padding: 0.5rem 1rem !important;
+}
+
+.iconText {
+    margin: 0 0.5rem;
+}
+
+.navbarStyle {
+    padding: 0.5rem 1rem;
+}
+
+.navbarButton {
+    color: #fff !important;
+}
+
+.data-area-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.todo-form {
+    width: 60%;
+}
+
+.todo-list {
+    width: 60%;
+}
+
+.todo-label {
+    font-size: large;
+    margin-right: 22%;
+    margin-left: 3%;
+}
+
+.todo-view-btn {
+    float: right;
+}
+
+td {
+    word-break: break-word;
+    max-width: 34rem;
+}
+
+.warningMessage {
+    color: red;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.signInButton {
+    margin: 1rem;
+}
+
+.user-info-container {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.user-info-card {
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #dee2e6;
+}
+
+.user-info-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.user-info-item {
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.user-info-item:last-child {
+    border-bottom: none;
+}
+
+.user-info-item strong {
+    color: #495057;
+    margin-right: 0.5rem;
+}
